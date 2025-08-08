@@ -31,4 +31,3 @@ public class GroupInfoVO {
         this.groupInfo = groupInfo;
     }
 }
-1231
